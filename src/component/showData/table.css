@@ -1,0 +1,23 @@
+.Table {
+  width: 100%;
+}
+.Table-header {
+  display: flex;
+  font-size: 24px;
+  background: cornflowerblue;
+  color: white;
+}
+.Table-row {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+.Table-detail {
+  width: 200px;
+  display: flex;
+  justify-content: left;
+}
+.Table-body {
+  background-color: #aaaaf1;
+}

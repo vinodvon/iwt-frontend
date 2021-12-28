@@ -1,0 +1,13 @@
+.Filter-on {
+  color: #5dff4f;
+  margin-left: 5px;
+}
+.Filter-off {
+  color: black;
+  margin-left: 5px;
+}
+.App-header {
+  display: flex;
+  justify-content: space-between;
+  margin:10px
+}

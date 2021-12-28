@@ -1,0 +1,8 @@
+.Dialog-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.MuiFormControl-root.MuiTextField-root {
+  margin: 5px 0px;
+}
